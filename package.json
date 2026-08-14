@@ -1,0 +1,23 @@
+{
+  "name": "vo1-control-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.18",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  }
+}
